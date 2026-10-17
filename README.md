@@ -1,0 +1,2 @@
+# kiklyr-miner
+pearlhash miner 
